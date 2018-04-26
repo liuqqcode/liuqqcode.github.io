@@ -40,6 +40,30 @@ li{
     height: 30px;
     background: rgb(56, 55, 55);
 }
+.xiaoshoudiv{
+    height: 300px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    text-align: left;
+    left: 50%;
+    top: 50%;
+    overflow-y: hidden;
+    overflow-y: hidden;
+    z-index: 2000;
+    position: fixed;
+}
+.xiaoshoubtn{
+    position: absolute;
+    color: #fff;
+    width: 90px;
+    font-size: 17px;
+    font-weight: 500;
+    padding: 10px 32px;
+    margin: 100px auto;
+    left: 205px;
+    cursor: pointer;
+    background: rgb(48,133,214);
+}
 .jianjie, .more{
     margin-left: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
