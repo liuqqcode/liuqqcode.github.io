@@ -13,12 +13,14 @@ li{
 .content{
     position: relative;
     margin: auto;
-    width: 80%;
+    width: 90%;
     height: 800px;
     /* border: 1px solid wheat; */
     border-radius: 10px;
 }
-
+.contentdiv{
+    width: 100%;
+}
 .headerimg{
     width: 100px;
     height: 100px;
@@ -41,10 +43,12 @@ li{
     padding: 20px;
     margin-left: -250px;
     margin-top: -183px;
-    background: white;
+    background: rgba(56, 55, 55, .8);
+    color: #00FFFF;
     height: 300px;
     border-radius: 5px;
     box-sizing: border-box;
+    box-shadow: 0 0 20px gray;
     text-align: left;
     left: 50%;
     top: 50%;
@@ -165,6 +169,12 @@ li i{
         height: 50px;
         border-radius: 100%;
         margin-top: 10px;
+    }
+    canvas{
+        display: none;
+    }
+    .contentdiv{
+        background: gainsboro;
     }
     .xiaoshoudiv{
         width: 100%;

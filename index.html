@@ -25,10 +25,11 @@
   <body >
   <canvas id="canvas-club"></canvas>
   <script>
+
       var c = document.getElementById("canvas-club");
       var ctx = c.getContext("2d");
       var w = c.width = window.innerWidth;
-      var h = c.height = 900;
+      var h = c.height = 800;
       var clearColor = 'rgba(0, 0, 0, .1)';
       var max = 30;
       var drops = [];
@@ -196,7 +197,7 @@
                 </span>
                 <li class="workLi">
                     <i class="fa fa-tag" aria-hidden="true"></i>
-                    <span class="xiaoshou" title="负责部门内部沟通...">
+                    <span class="xiaoshou" title="负责部门内部沟通......">
                         <button class="btn btn-info" onclick="workListShow()">销售主管</button>
                     </span>
                     <div class="xiaoshoudiv" id="xiaoshouid" style="display: none; ">
