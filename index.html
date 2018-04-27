@@ -19,7 +19,7 @@
   <style>
       canvas{
           margin: 0;
-          position: absolute;
+          position: fixed;
       }
   </style>
   <body >
@@ -29,7 +29,7 @@
       var c = document.getElementById("canvas-club");
       var ctx = c.getContext("2d");
       var w = c.width = window.innerWidth;
-      var h = c.height = 800;
+      var h = c.height = window.innerHeight;
       var clearColor = 'rgba(0, 0, 0, .1)';
       var max = 30;
       var drops = [];

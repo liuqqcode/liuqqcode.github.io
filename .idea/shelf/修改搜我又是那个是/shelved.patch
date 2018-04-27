@@ -1,0 +1,175 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"6bf9092e-8ff0-4301-9234-2397e3bd0440\" name=\"Default\" comment=\"\" />\n    <ignored path=\"$PROJECT_DIR$/.tmp/\" />\n    <ignored path=\"$PROJECT_DIR$/temp/\" />\n    <ignored path=\"$PROJECT_DIR$/tmp/\" />\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\n    <option name=\"TRACKING_ENABLED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileEditorManager\">\n    <leaf>\n      <file leaf-file-name=\"index.html\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/index.html\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state>\n              <folding>\n                <element signature=\"n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top\" expanded=\"true\" />\n                <element signature=\"n#style#0;n#div#0;n#li#0;n#ul#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top\" expanded=\"true\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"style.css\" pinned=\"false\" current-in-tab=\"true\">\n        <entry file=\"file://$PROJECT_DIR$/styles/style.css\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"238\">\n              <caret line=\"179\" column=\"16\" selection-start-line=\"179\" selection-start-column=\"16\" selection-end-line=\"179\" selection-end-column=\"16\" />\n            </state>\n          </provider>\n        </entry>\n      </file>\n    </leaf>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"UPDATE_TYPE\" value=\"MERGE\" />\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"CHANGED_PATHS\">\n      <list>\n        <option value=\"$PROJECT_DIR$/index.html\" />\n        <option value=\"$PROJECT_DIR$/styles/style.css\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"JsBuildToolGruntFileManager\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\n  <component name=\"JsBuildToolPackageJson\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\n  <component name=\"JsGulpfileManager\">\n    <detection-done>true</detection-done>\n    <sorting>DEFINITION_ORDER</sorting>\n  </component>\n  <component name=\"NodePackageJsonFileManager\">\n    <packageJsonPaths />\n  </component>\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\n    <option name=\"x\" value=\"10\" />\n    <option name=\"y\" value=\"20\" />\n    <option name=\"width\" value=\"1346\" />\n    <option name=\"height\" value=\"688\" />\n  </component>\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectView\">\n    <navigator proportions=\"\" version=\"1\">\n      <foldersAlwaysOnTop value=\"true\" />\n    </navigator>\n    <panes>\n      <pane id=\"Scope\" />\n      <pane id=\"ProjectPane\">\n        <subPane>\n          <expand>\n            <path>\n              <item name=\"liuqqcode.github.io\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"liuqqcode.github.io\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"liuqqcode.github.io\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"liuqqcode.github.io\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"bootstrap-4.0.0-dist\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"liuqqcode.github.io\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"liuqqcode.github.io\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"bootstrap-4.0.0-dist\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"css\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"liuqqcode.github.io\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"liuqqcode.github.io\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"styles\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n          </expand>\n          <select />\n        </subPane>\n      </pane>\n    </panes>\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../project-vue\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.lookFeel\" />\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"6bf9092e-8ff0-4301-9234-2397e3bd0440\" name=\"Default\" comment=\"\" />\n      <created>1524738312918</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1524738312918</updated>\n      <workItem from=\"1524738322738\" duration=\"7049000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"修改搜我又是那个是\">\n      <created>1524738561737</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1524738561737</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"修改搜我又是那个是\">\n      <created>1524798720837</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1524798720837</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"修改搜我又是那个是\">\n      <created>1524798842751</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1524798842751</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"修改搜我又是那个是\">\n      <created>1524804026796</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1524804026796</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"修改搜我又是那个是\">\n      <created>1524804519321</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1524804519321</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"6\" />\n    <servers />\n  </component>\n  <component name=\"TimeTrackingManager\">\n    <option name=\"totallyTimeSpent\" value=\"7049000\" />\n  </component>\n  <component name=\"ToolWindowManager\">\n    <frame x=\"-8\" y=\"-8\" width=\"1382\" height=\"744\" extended-state=\"6\" />\n    <editor active=\"true\" />\n    <layout>\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.2470238\" />\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\n      <window_info anchor=\"bottom\" id=\"Docker\" show_stripe_button=\"false\" />\n      <window_info anchor=\"bottom\" id=\"Event Log\" side_tool=\"true\" />\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" />\n      <window_info anchor=\"bottom\" id=\"Version Control\" weight=\"0.3289689\" />\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Terminal\" />\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\n      <window_info id=\"Favorites\" side_tool=\"true\" />\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\n    </layout>\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"1\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State>\n              <option name=\"RECENTLY_FILTERED_USER_GROUPS\">\n                <collection />\n              </option>\n              <option name=\"RECENTLY_FILTERED_BRANCH_GROUPS\">\n                <collection />\n              </option>\n              <option name=\"COLUMN_ORDER\">\n                <list>\n                  <option value=\"0\" />\n                  <option value=\"1\" />\n                  <option value=\"2\" />\n                  <option value=\"3\" />\n                </list>\n              </option>\n            </State>\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsContentAnnotationSettings\">\n    <option name=\"myLimit\" value=\"2678400000\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"修改搜我又是那个是\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"修改搜我又是那个是\" />\n  </component>\n  <component name=\"editorHistoryManager\">\n    <entry file=\"file://$PROJECT_DIR$/index.html\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state>\n          <folding>\n            <element signature=\"n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top\" expanded=\"true\" />\n            <element signature=\"n#style#0;n#div#0;n#li#0;n#ul#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/styles/style.css\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"238\">\n          <caret line=\"179\" column=\"16\" selection-start-line=\"179\" selection-start-column=\"16\" selection-end-line=\"179\" selection-end-column=\"16\" />\n        </state>\n      </provider>\n    </entry>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 4c86f52dbd4943086f4f48cafc92ecae757ea80b)
++++ .idea/workspace.xml	(date 1524821982239)
+@@ -1,7 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="6bf9092e-8ff0-4301-9234-2397e3bd0440" name="Default" comment="" />
++    <list default="true" id="6bf9092e-8ff0-4301-9234-2397e3bd0440" name="Default" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
++    </list>
+     <ignored path="$PROJECT_DIR$/.tmp/" />
+     <ignored path="$PROJECT_DIR$/temp/" />
+     <ignored path="$PROJECT_DIR$/tmp/" />
+@@ -17,7 +21,8 @@
+       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/index.html">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state>
++            <state relative-caret-position="493">
++              <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+               <folding>
+                 <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+@@ -29,13 +34,18 @@
+       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/styles/style.css">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="238">
+-              <caret line="179" column="16" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
++            <state>
++              <caret lean-forward="true" />
+             </state>
+           </provider>
+         </entry>
+       </file>
+     </leaf>
++  </component>
++  <component name="FindInProjectRecents">
++    <findStrings>
++      <find>23</find>
++    </findStrings>
+   </component>
+   <component name="Git.Settings">
+     <option name="UPDATE_TYPE" value="MERGE" />
+@@ -44,8 +54,8 @@
+   <component name="IdeDocumentHistory">
+     <option name="CHANGED_PATHS">
+       <list>
++        <option value="$PROJECT_DIR$/styles/style.css" />
+         <option value="$PROJECT_DIR$/index.html" />
+-        <option value="$PROJECT_DIR$/styles/style.css" />
+       </list>
+     </option>
+   </component>
+@@ -127,7 +137,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1524738312918</updated>
+-      <workItem from="1524738322738" duration="7049000" />
++      <workItem from="1524738322738" duration="10888000" />
+     </task>
+     <task id="LOCAL-00001" summary="修改搜我又是那个是">
+       <created>1524738561737</created>
+@@ -164,11 +174,25 @@
+       <option name="project" value="LOCAL" />
+       <updated>1524804519321</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="修改搜我又是那个是">
++      <created>1524804664013</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1524804664013</updated>
++    </task>
++    <task id="LOCAL-00007" summary="修改搜我又是那个是">
++      <created>1524804823596</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1524804823596</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="7049000" />
++    <option name="totallyTimeSpent" value="10888000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+@@ -232,7 +256,8 @@
+   <component name="editorHistoryManager">
+     <entry file="file://$PROJECT_DIR$/index.html">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state>
++        <state relative-caret-position="493">
++          <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+           <folding>
+             <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+             <element signature="n#style#0;n#div#0;n#li#0;n#ul#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+@@ -242,8 +267,8 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/styles/style.css">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="238">
+-          <caret line="179" column="16" selection-start-line="179" selection-start-column="16" selection-end-line="179" selection-end-column="16" />
++        <state>
++          <caret lean-forward="true" />
+         </state>
+       </provider>
+     </entry>
+Index: styles/style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>body{\n    margin: 0;\n    padding: 0;\n    font-family: \"Microsoft Yahei\";\n    font-size: 11px;\n}\nli{\n    list-style: none;\n    font: 14px 'Microsoft YaHei',arial,tahoma,\\5b8b\\4f53,sans-serif;\n    padding-top: 4px;\n}\n\n.content{\n    position: relative;\n    margin: auto;\n    width: 90%;\n    height: 800px;\n    /* border: 1px solid wheat; */\n    border-radius: 10px;\n}\n.contentdiv{\n    width: 100%;\n}\n.headerimg{\n    width: 100px;\n    height: 100px;\n    border-radius: 50%;\n    margin-top: 10px;\n}\n.header{\n    font-family: \"Arial\",\"Microsoft YaHei\",\"黑体\",\"宋体\",sans-serif;\n    font-size: 30px;\n    font-weight: 500;\n    text-align: center;\n}\n.line{\n    width: 100%;\n    height: 30px;\n    background: rgb(56, 55, 55);\n}\n.xiaoshoudiv{\n    width: 500px;\n    padding: 20px;\n    margin-left: -250px;\n    margin-top: -183px;\n    background: rgba(56, 55, 55, .8);\n    color: #00FFFF;\n    height: 300px;\n    border-radius: 5px;\n    box-sizing: border-box;\n    box-shadow: 0 0 20px gray;\n    text-align: left;\n    left: 50%;\n    top: 50%;\n    overflow-x: hidden;\n    overflow-y: hidden;\n    z-index: 2000;\n    position: fixed;\n}\n.xiaoshoubtn{\n    position: absolute;\n    color: #fff;\n    width: 90px;\n    font-size: 17px;\n    font-weight: 500;\n    padding: 10px 32px;\n    margin: 100px auto;\n    left: 205px;\n    cursor: pointer;\n    background: rgb(48,133,214);\n}\n.jianjie, .more{\n    margin-left: 10px;\n    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;\n    font-size: 20px;\n    text-align: center;\n    color: gold;\n}\n.jianjiediv{\n    font-family: \"楷体\",\"楷体_GB2312\";\n    font-weight: 700;\n    font-size: 20px;\n    text-indent: 2em;\n    margin: 10px;\n}\n.jianjiespan{\n    text-indent: 2em;   \n}\n.jianjiespan span{\n    color: blue;\n}\n.work, .jineng, .project, .contact{\n    margin: 10px;\n    padding: 10px;\n    border: 1px solid goldenrod;\n    border-radius: 5px;\n    height: 300px; \n    width: 23%;\n}\n\nul{\n    position: relative;\n    font: 20px Tahoma,Helvetica,Arial,\"\\5b8b\\4f53\",sans-serif;\n    font-weight: 700;\n    margin-top: 20px; \n    float: left;\n}\n.proLi i{\n    float: left;\n}\n\n.games, .proUl{\n    clear: both;\n    margin-left: -20px;\n    margin-top: -28px;\n}\n.fa-calendar-plus-o, .fa-tags, .phone, .pro{\n    width: 40px;\n    padding: 5px 0; \n    text-align: center;\n    background: rgb(36, 35, 35);\n    color: yellow;\n    border-radius: 10px;\n}\n.jnzs{\n    margin-top: 4px;\n    font-size: 12px;\n    float: right;\n    color: white;\n    background: red;\n    padding: 0 3px;\n}\n.jnzssl{\n    margin-top: 4px;    \n    font-size: 12px;\n    float: right;\n    color: white;\n    background: rgb(184, 97, 97);\n    padding: 0 3px;    \n}\nli i{\n    margin-top: 2px;\n    padding-top: 4px;\n    width: 24px;\n    height: 24px;\n    text-align: center;\n    background: white;\n    border: 1px solid orange;\n    border-radius: 12px;\n    color: orange;\n}\n.fa-file{\n    clear: both;\n    position: relative;\n}\n@media(max-width: 1100px){\n    body{\n        margin: 0;\n        padding: 0;\n        height: auto;\n        background: gainsboro;\n    }\n    .name{\n        font-size: 20px;\n        margin: 2px auto;\n    }\n    .headerimg{\n        width: 50px;\n        height: 50px;\n        border-radius: 100%;\n        margin-top: 10px;\n    }\n    canvas{\n        display: none;\n    }\n    .contentdiv{\n        background: gainsboro;\n    }\n    .xiaoshoudiv{\n        width: 80%;\n        margin-left: -40%;\n    }\n    .xiaoshoubtn{\n        height: 42px;\n        width: 20%;\n        left: 40%;\n        padding: 10px;\n        text-align: center;\n    }\n    .jianjiediv{\n        font-family: \"Arial\",\"Microsoft YaHei\",\"黑体\",\"宋体\",sans-serif;\n        font-size: 14px;\n        font-weight: 400;\n        text-indent: 2em;\n    }\n    .content{\n        position: relative;\n        margin: 0px;\n        width: 100%;\n        height: auto;\n        border-radius: 0;\n        background: gainsboro;\n    }\n    .work, .jineng, .project, .contact{\n        margin: 5%;\n        padding: 5%;\n        border: 1px solid goldenrod;\n        border-radius: 5px;\n        width: 90%;\n        height: auto;\n    }\n\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- styles/style.css	(revision 4c86f52dbd4943086f4f48cafc92ecae757ea80b)
++++ styles/style.css	(date 1524818767411)
+@@ -3,6 +3,7 @@
+     padding: 0;
+     font-family: "Microsoft Yahei";
+     font-size: 11px;
++    color: gray;
+ }
+ li{
+     list-style: none;
+@@ -20,6 +21,7 @@
+ }
+ .contentdiv{
+     width: 100%;
++
+ }
+ .headerimg{
+     width: 100px;
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\n<html lang=\"zh-CN\">\n  <head>\n    <meta charset=\"utf-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, user-scalable=no\">\n    <title>刘欢-个人简历</title>\n\n    <!-- Bootstrap -->\n    <link href=\"./bootstrap-4.0.0-dist/css/bootstrap.min.css\" rel=\"stylesheet\">\n    <link rel=\"stylesheet\" href=\"https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css\">\n    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css\">\n    <link rel=\"stylesheet\" href=\"./styles/style.css\">\n    <!--[if lt IE 9]>\n      <script src=\"https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js\"></script>\n      <script src=\"https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js\"></script>\n    <![endif]-->\n  </head>\n  <style>\n      canvas{\n          margin: 0;\n          position: absolute;\n      }\n  </style>\n  <body >\n  <canvas id=\"canvas-club\"></canvas>\n  <script>\n\n      var c = document.getElementById(\"canvas-club\");\n      var ctx = c.getContext(\"2d\");\n      var w = c.width = window.innerWidth;\n      var h = c.height = 800;\n      var clearColor = 'rgba(0, 0, 0, .1)';\n      var max = 30;\n      var drops = [];\n\n      function random(min, max) {\n          return Math.random() * (max - min) + min;\n      }\n\n      function O() {}\n\n      O.prototype = {\n          init: function() {\n              this.x = random(0, w);\n              this.y = 0;\n              this.color = 'hsl(180, 100%, 50%)';\n              this.w = 2;\n              this.h = 1;\n              this.vy = random(4, 5);\n              this.vw = 3;\n              this.vh = 1;\n              this.size = 2;\n              this.hit = random(h * .8, h * .9);\n              this.a = 1;\n              this.va = .96;\n          },\n          draw: function() {\n              if (this.y > this.hit) {\n                  ctx.beginPath();\n                  ctx.moveTo(this.x, this.y - this.h / 2);\n\n                  ctx.bezierCurveTo(\n                      this.x + this.w / 2, this.y - this.h / 2,\n                      this.x + this.w / 2, this.y + this.h / 2,\n                      this.x, this.y + this.h / 2);\n\n                  ctx.bezierCurveTo(\n                      this.x - this.w / 2, this.y + this.h / 2,\n                      this.x - this.w / 2, this.y - this.h / 2,\n                      this.x, this.y - this.h / 2);\n\n                  ctx.strokeStyle = 'hsla(180, 100%, 50%, '+this.a+')';\n                  ctx.stroke();\n                  ctx.closePath();\n\n              } else {\n                  ctx.fillStyle = this.color;\n                  ctx.fillRect(this.x, this.y, this.size, this.size * 5);\n              }\n              this.update();\n          },\n          update: function() {\n              if(this.y < this.hit){\n                  this.y += this.vy;\n              } else {\n                  if(this.a > .03){\n                      this.w += this.vw;\n                      this.h += this.vh;\n                      if(this.w > 100){\n                          this.a *= this.va;\n                          this.vw *= .98;\n                          this.vh *= .98;\n                      }\n                  } else {\n                      this.init();\n                  }\n              }\n\n          }\n      }\n\n      function resize(){\n          w = c.width = window.innerWidth;\n          h = c.height = window.innerHeight;\n      }\n\n      function setup(){\n          for(var i = 0; i < max; i++){\n              (function(j){\n                  setTimeout(function(){\n                      var o = new O();\n                      o.init();\n                      drops.push(o);\n                  }, j * 200000)\n              }(i));\n          }\n      }\n\n\n      function anim() {\n          ctx.fillStyle = clearColor;\n          ctx.fillRect(0,0,w,h);\n          for(var i in drops){\n              drops[i].draw();\n          }\n          requestAnimationFrame(anim);\n      }\n\n\n      window.addEventListener(\"resize\", resize);\n\n      setup();\n      anim();\n  </script>\n      <div class=\"content\">\n        <div class=\"header\">\n            <img class=\"headerimg\" src=\"./images/TIM图片20180423185604.jpg\" alt=\"\">\n            <br>\n            <span class=\"name\">\n                刘欢\n            </span>\n        </div>\n        <div>\n            <div class=\"line\">\n                <span class=\"jianjie\">个人简介</span>\n            </div>\n            <div class=\"jianjiediv\">\n                <span>我是一名嵌入式专业的毕业生,本人性格开朗,稳重,有活力,有上进心,对待工作认真负责!</span>\n                <div class=\"jianjiespan\">上大一的时候对C语言和JAVA语言的学习使我对编程充满的热情,\n                    后来偶然的机会接触到前端,先后自学了<span>HTML CSS JS JQuery bootstrap</span>等,由于之前积极参加各种学校活动,拍照,对<span>photoshop</span>\n                    也有一年多的应用,然后对前端更加有兴趣了,后来又学习了<span>vue</span>以及<span>ES6</span>,目前也能熟练的应用.\n                </div>\n                <div class=\"jianjiediv\">\n                    希望我能为咱们公司贡献自己的力量!!!\n                </div>\n            </div>\n        </div>\n        <div>\n            <div class=\"line\">\n                <span class=\"more\">MORE</span>\n                <i class=\"fa fa-angle-double-right fa-2x\" style=\"color: yellow;\" aria-hidden=\"true\"></i>\n            </div>\n        </div>\n        <div class=\"contentdiv\">\n\n            <ul class=\"project\">\n                <i class=\"fa fa-folder-open pro fa-1x\" aria-hidden=\"true\"></i>\n                <span>\n                    项目经验\n                </span>\n                <li class=\"proLi\">\n                    <i class=\"fa fa-file-archive-o\" aria-hidden=\"true\"></i>\n                    <ul class=\"proUl\">\n                        <a name=\"\" id=\"\" class=\"btn btn-link\" href=\"./project/滑动门/jquery滑动门特效.html\" role=\"button\">滑动门</a>\n                        <br>\n                        <a name=\"\" id=\"\" class=\"btn btn-link\" href=\"./project/旅途/index.html\" role=\"button\">携程</a>\n                        <br>\n                        <a name=\"\" id=\"\" class=\"btn btn-link\" href=\"./project/vue/index.html\" role=\"button\">vue</a>\n                        <br>\n                    </ul>\n                    <br>\n                    <i class=\"fa fa-file\" aria-hidden=\"true\"></i>\n                    <ul class=\"games\">\n                        <a name=\"\" id=\"\" class=\"btn btn-link\" href=\"./games/贪吃蛇2.html\" role=\"button\">贪吃蛇</a>\n                        <br>\n                        <a name=\"\" id=\"\" class=\"btn btn-link\" href=\"./games/躲避游戏.html\" role=\"button\">躲避游戏</a>\n                        <br>\n                        <a name=\"\" id=\"\" class=\"btn btn-link\" href=\"./games/canvas移动的方块.html\" role=\"button\">移动方块</a>\n                    </ul>\n                </li>\n            </ul>\n            <ul class=\"work\">\n                <i class=\"fa fa-calendar-plus-o\" aria-hidden=\"true\"></i>\n                <span>\n                    工作经验\n                </span>\n                <li class=\"workLi\">\n                    <i class=\"fa fa-tag\" aria-hidden=\"true\"></i>\n                    <span class=\"xiaoshou\" title=\"负责部门内部沟通......\">\n                        <button class=\"btn btn-info\" onclick=\"workListShow()\">销售主管</button>\n                    </span>\n                    <div class=\"xiaoshoudiv\" id=\"xiaoshouid\" style=\"display: none; \">\n                        1、具有一定工作经验,且积极主动,能吃苦耐劳,有责任心和事业心。\n                        <br>\n                        2、有良好的沟通能力。\n                        <br>\n                        3、有责任心，良好的团队精神，做事积极主动，勇于挑战高薪，有领导能力。\n                        <br>\n                        4、有直销工作经验\n                        <button class=\"xiaoshoubtn btn btn-group-toggle\" id=\"xiaoshoubtn\" onclick=\"workListClose()\">\n                            OK\n                        </button>\n                    </div>\n                </li>\n\n\n            </ul>\n            <ul class=\"jineng\">\n                <i class=\"fa fa-tags\" aria-hidden=\"true\"></i>\n                <span>\n                    技能展示\n                </span>\n                <li class=\"jinengLi\">\n                    <i class=\"fa fa-circle\" aria-hidden=\"true\"></i>\n                    <span>JS</span>\n                    <span class=\"jnzs\">\n                        精通\n                    </span>\n                </li>\n                <li>\n                    <i class=\"fa fa-circle\" aria-hidden=\"true\"></i>\n                    <span>JQuery</span>  \n                    <span class=\"jnzs\">\n                        精通\n                    </span>                  \n                </li>\n                <li>\n                    <i class=\"fa fa-circle\" aria-hidden=\"true\"></i>\n                    <span>bootstrap</span>\n                    <span class=\"jnzs\">\n                        精通\n                    </span>\n                </li>\n                <li>\n                    <i class=\"fa fa-circle\" aria-hidden=\"true\"></i>\n                    <span>photoshop</span>  \n                    <span class=\"jnzs\">\n                        精通\n                    </span>                      \n                </li>\n                <li>\n                    <i class=\"fa fa-circle\" aria-hidden=\"true\"></i>\n                    <span>ES6</span>  \n                    <span class=\"jnzssl\">\n                        熟练\n                    </span>                  \n                </li>\n                <li>\n                    <i class=\"fa fa-circle\" aria-hidden=\"true\"></i>\n                    <span>vue</span> \n                    <span class=\"jnzssl\">\n                        熟练\n                    </span>                   \n                </li>\n            </ul>\n\n            <ul class=\"contact\">\n                <i class=\"fa fa-phone phone fa-1x\" aria-hidden=\"true\"></i>\n                <span>\n                    联系方式\n                </span>\n                <li><i class=\"fa fa-phone\" aria-hidden=\"true\"></i> 18581313014</li>\n                <li><i class=\"fa fa-envelope\" aria-hidden=\"true\"></i> 1761112388@qq.com</li>\n            </ul>\n        </div>\n      </div>\n\n\n      <script src=\"./js/jquery-3.2.1.min.js\"></script>\n      <script src=\"./js/resume.js\"></script>\n      <script src=\"./bootstrap-4.0.0-dist/js/bootstrap.min.js\"></script>\n  </body>\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.html	(revision 4c86f52dbd4943086f4f48cafc92ecae757ea80b)
++++ index.html	(date 1524818986220)
+@@ -19,17 +19,16 @@
+   <style>
+       canvas{
+           margin: 0;
+-          position: absolute;
++          position: fixed;
+       }
+   </style>
+   <body >
+   <canvas id="canvas-club"></canvas>
+   <script>
+-
+       var c = document.getElementById("canvas-club");
+       var ctx = c.getContext("2d");
+       var w = c.width = window.innerWidth;
+-      var h = c.height = 800;
++      var h = c.height = window.innerHeight;
+       var clearColor = 'rgba(0, 0, 0, .1)';
+       var max = 30;
+       var drops = [];
