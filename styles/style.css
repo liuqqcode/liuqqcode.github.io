@@ -41,13 +41,18 @@ li{
     background: rgb(56, 55, 55);
 }
 .xiaoshoudiv{
+    width: 500px;
+    padding: 20px;
+    margin-left: -250px;
+    margin-top: -183px;
+    background: white;
     height: 300px;
     border-radius: 5px;
     box-sizing: border-box;
     text-align: left;
     left: 50%;
     top: 50%;
-    overflow-y: hidden;
+    overflow-x: hidden;
     overflow-y: hidden;
     z-index: 2000;
     position: fixed;
@@ -164,6 +169,10 @@ li i{
         height: 50px;
         border-radius: 100%;
         margin-top: 10px;
+    }
+    .xiaoshoudiv{
+        width: 100%;
+        margin-left: -50%;
     }
     .jianjiediv{
         font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
