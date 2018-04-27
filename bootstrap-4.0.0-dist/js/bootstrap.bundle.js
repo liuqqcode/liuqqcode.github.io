@@ -1071,7 +1071,7 @@ var Collapse = function ($$$1) {
     HEIGHT: 'height'
   };
   var Selector = {
-    ACTIVES: '.show, .collapsing',
+    ACTIVES: '.workListShow, .collapsing',
     DATA_TOGGLE: '[data-toggle="collapse"]'
     /**
      * ------------------------------------------------------------------------
@@ -1125,7 +1125,7 @@ var Collapse = function ($$$1) {
       }
     };
 
-    _proto.show = function show() {
+    _proto.workListShow = function show() {
       var _this = this;
 
       if (this._isTransitioning || $$$1(this._element).hasClass(ClassName.SHOW)) {
@@ -4387,7 +4387,7 @@ var Modal = function ($$$1) {
       return this._isShown ? this.hide() : this.show(relatedTarget);
     };
 
-    _proto.show = function show(relatedTarget) {
+    _proto.workListShow = function show(relatedTarget) {
       var _this = this;
 
       if (this._isTransitioning || this._isShown) {
@@ -5063,11 +5063,11 @@ var Tooltip = function ($$$1) {
       this.tip = null;
     };
 
-    _proto.show = function show() {
+    _proto.workListShow = function show() {
       var _this = this;
 
       if ($$$1(this.element).css('display') === 'none') {
-        throw new Error('Please use show on visible elements');
+        throw new Error('Please use workListShow on visible elements');
       }
 
       var showEvent = $$$1.Event(this.constructor.Event.SHOW);
@@ -6100,7 +6100,7 @@ var Tab = function ($$$1) {
     var _proto = Tab.prototype;
 
     // Public
-    _proto.show = function show() {
+    _proto.workListShow = function show() {
       var _this = this;
 
       if (this._element.parentNode && this._element.parentNode.nodeType === Node.ELEMENT_NODE && $$$1(this._element).hasClass(ClassName.ACTIVE) || $$$1(this._element).hasClass(ClassName.DISABLED)) {

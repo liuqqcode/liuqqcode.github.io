@@ -7,7 +7,7 @@
     <title>刘欢-个人简历</title>
 
     <!-- Bootstrap -->
-    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link href="./bootstrap-4.0.0-dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="./styles/style.css">
@@ -16,7 +16,7 @@
       <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body>
+  <body >
       <div class="content">
         <div class="header">
             <img class="headerimg" src="./images/TIM图片20180423185604.jpg" alt="">
@@ -47,6 +47,33 @@
             </div>
         </div>
         <div class="contentdiv">
+
+            <ul class="project">
+                <i class="fa fa-folder-open pro fa-1x" aria-hidden="true"></i>
+                <span>
+                    项目经验
+                </span>
+                <li class="proLi">
+                    <i class="fa fa-file-archive-o" aria-hidden="true"></i>
+                    <ul class="proUl">
+                        <a name="" id="" class="btn btn-link" href="./project/滑动门/jquery滑动门特效.html" role="button">滑动门</a>
+                        <br>
+                        <a name="" id="" class="btn btn-link" href="./project/旅途/index.html" role="button">携程</a>
+                        <br>
+                        <a name="" id="" class="btn btn-link" href="./project/vue/index.html" role="button">vue</a>
+                        <br>
+                    </ul>
+                    <br>
+                    <i class="fa fa-file" aria-hidden="true"></i>
+                    <ul class="games">
+                        <a name="" id="" class="btn btn-link" href="./games/贪吃蛇2.html" role="button">贪吃蛇</a>
+                        <br>
+                        <a name="" id="" class="btn btn-link" href="./games/躲避游戏.html" role="button">躲避游戏</a>
+                        <br>
+                        <a name="" id="" class="btn btn-link" href="./games/canvas移动的方块.html" role="button">移动方块</a>
+                    </ul>
+                </li>
+            </ul>
             <ul class="work">
                 <i class="fa fa-calendar-plus-o" aria-hidden="true"></i>
                 <span>
@@ -54,7 +81,21 @@
                 </span>
                 <li class="workLi">
                     <i class="fa fa-tag" aria-hidden="true"></i>
-                    <span>销售主管</span>
+                    <span class="xiaoshou" title="负责部门内部沟通...">
+                        <button class="btn btn-info" onclick="workListShow()">销售主管</button>
+                    </span>
+                    <div class="xiaoshoudiv" id="xiaoshouid" style="display: none; ">
+                        1、具有一定工作经验,且积极主动,能吃苦耐劳,有责任心和事业心。
+                        <br>
+                        2、有良好的沟通能力。
+                        <br>
+                        3、有责任心，良好的团队精神，做事积极主动，勇于挑战高薪，有领导能力。
+                        <br>
+                        4、有直销工作经验
+                        <button class="xiaoshoubtn btn btn-group-toggle" id="xiaoshoubtn" onclick="workListClose()">
+                            OK
+                        </button>
+                    </div>
                 </li>
 
 
@@ -107,32 +148,7 @@
                     </span>                   
                 </li>
             </ul>
-            <ul class="project">
-                <i class="fa fa-folder-open pro fa-1x" aria-hidden="true"></i>
-                <span>
-                    项目经验
-                </span>
-                <li class="proLi">
-                    <i class="fa fa-file-archive-o" aria-hidden="true"></i>
-                    <ul class="proUl">
-                        <a name="" id="" class="btn btn-primary|secondary|success|danger|warning|info|light|dark|link" href="./project/滑动门/jquery滑动门特效.html" role="button">滑动门</a>
-                        <br>
-                        <a name="" id="" class="btn btn-primary|secondary|success|danger|warning|info|light|dark|link" href="./project/旅途/index.html" role="button">携程</a>
-                        <br>
-                        <a name="" id="" class="btn btn-primary|secondary|success|danger|warning|info|light|dark|link" href="./project/vue/index.html" role="button">vue</a>
-                        <br>
-                    </ul>
-                    <br>
-                    <i class="fa fa-file" aria-hidden="true"></i>
-                    <ul class="games">
-                        <a name="" id="" class="btn btn-primary|secondary|success|danger|warning|info|light|dark|link" href="./games/贪吃蛇2.html" role="button">贪吃蛇</a>
-                        <br>
-                        <a name="" id="" class="btn btn-primary|secondary|success|danger|warning|info|light|dark|link" href="./games/躲避游戏.html" role="button">躲避游戏</a>
-                        <br>
-                        <a name="" id="" class="btn btn-primary|secondary|success|danger|warning|info|light|dark|link" href="./games/canvas移动的方块.html" role="button">移动方块</a>
-                    </ul>
-                </li>
-            </ul>
+
             <ul class="contact">
                 <i class="fa fa-phone phone fa-1x" aria-hidden="true"></i>
                 <span>
@@ -143,9 +159,10 @@
             </ul>
         </div>
       </div>
-      
 
-    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+      <script src="./js/jquery-3.2.1.min.js"></script>
+      <script src="./js/resume.js"></script>
+      <script src="./bootstrap-4.0.0-dist/js/bootstrap.min.js"></script>
   </body>
 </html>

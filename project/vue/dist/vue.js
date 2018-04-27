@@ -5366,7 +5366,7 @@
    * 1. enter transition triggered
    * 2. call beforeEnter hook
    * 3. add enter class
-   * 4. insert/show element
+   * 4. insert/workListShow element
    * 5. call enter hook (with possible explicit js callback)
    * 6. reflow
    * 7. based on transition type:
@@ -5381,7 +5381,7 @@
    * 8. wait for either done or js callback, then call
    *    afterEnter hook.
    *
-   * @param {Function} op - insert/show the element
+   * @param {Function} op - insert/workListShow the element
    * @param {Function} [cb]
    */
 
@@ -6983,7 +6983,7 @@
                 // extract directive name
                 dirName = name.slice(2);
 
-                // skip v-else (when used with v-show)
+                // skip v-else (when used with v-workListShow)
                 if (dirName === 'else') {
                   continue;
                 }
