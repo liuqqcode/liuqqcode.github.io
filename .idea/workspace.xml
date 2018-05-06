@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bf9092e-8ff0-4301-9234-2397e3bd0440" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/js/star.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/water.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bg_css.css" afterDir="false" />
+    <list default="true" id="6bf9092e-8ff0-4301-9234-2397e3bd0440" name="Default" comment="lh">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/canvas移动的方块.html" beforeDir="false" afterPath="$PROJECT_DIR$/games/canvas移动的方块.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/贪吃蛇2.html" beforeDir="false" afterPath="$PROJECT_DIR$/games/贪吃蛇2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/games/躲避游戏.html" beforeDir="false" afterPath="$PROJECT_DIR$/games/躲避游戏.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/resume.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/resume.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -112,7 +103,7 @@
       <file leaf-file-name="canvas移动的方块.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/games/canvas移动的方块.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
+            <state relative-caret-position="317">
               <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -270,7 +261,7 @@
       <workItem from="1524738322738" duration="7049000" />
       <workItem from="1524883367861" duration="23924000" />
       <workItem from="1525503787443" duration="1635000" />
-      <workItem from="1525506225758" duration="12811000" />
+      <workItem from="1525506225758" duration="13478000" />
     </task>
     <task id="LOCAL-00001" summary="修改搜我又是那个是">
       <created>1524738561737</created>
@@ -328,11 +319,25 @@
       <option name="project" value="LOCAL" />
       <updated>1524877948217</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lh">
+      <created>1525600238318</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1525600238318</updated>
+    </task>
+    <task id="LOCAL-00010" summary="lh">
+      <created>1525600608482</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1525600608482</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55528000" />
+    <option name="totallyTimeSpent" value="56195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -412,7 +417,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改搜我又是那个是" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改搜我又是那个是" />
+    <MESSAGE value="lh" />
+    <option name="LAST_COMMIT_MESSAGE" value="lh" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -723,7 +729,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/games/canvas移动的方块.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
+        <state relative-caret-position="317">
           <caret line="54" column="29" selection-start-line="54" selection-start-column="29" selection-end-line="54" selection-end-column="29" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
