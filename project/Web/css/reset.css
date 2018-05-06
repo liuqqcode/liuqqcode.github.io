@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,dl,dt,dd,input{margin:0;padding:0;}
+body{font-size:12px;}
+img{border:none;}
+li{list-style:none;}
+input,select,textarea{outline:none;border:none; background:none;}
+textarea{resize:none;}
+a{text-decoration:none; color:#656565;}
+
+/*清浮动*/
+.clearfix:after{content:"";display:block;clear:both;}
+.clearfix{zoom:1;}
+.fl{float:left;}
+.fr{float:right;}
+
+/*下载土之源购物app*/
+#appBtn{
+	 width: 40px;
+	 height: 120px;
+	 font-family:"微软雅黑";
+	 font-size:16px;
+	 padding:24px 4px;
+	 border-radius:4px 4px;
+	 line-height: 24px;
+	 cursor: pointer;
+	 background:#F63;
+	 color:#000; 
+	 position: fixed; 
+	 bottom:320px; 
+	 right: 0px; 
+	 text-align: center;  
+	 z-index:500;
+	 }
+	 
+#appBtn1{
+	 width: 168px;
+	 height: 168px;
+	 cursor: pointer;
+	 background:url(../images/app.png) center no-repeat;
+	 color:#000; 
+	 position: fixed; 
+	 bottom:320px; 
+	 right: -168px; 
+	 text-align: center;
+	 transition: all 0.6s; 
+	 }
+	 
+		 
+#appBtn:hover{
+	 background:#090;
+	 color:#fff; 
+	}
+	
+
+/*微信公众号*/
+#wxBtn{
+	 width: 40px;
+	 height: 120px;
+	 font-family:"微软雅黑";
+	 font-size:16px;
+	 padding:24px 4px;
+	 border-radius:4px 4px;
+	 line-height: 24px;
+	 cursor: pointer;
+	 background:#090;
+	 color:#000; 
+	 position: fixed; 
+	 bottom:144px; 
+	 right: 0px; 
+	 text-align: center;  
+	 z-index:500;
+	 }
+	 
+#wxBtn1{
+	 width: 168px;
+	 height: 168px;
+	 cursor: pointer;
+	 background:url(../images/weixin.png) center no-repeat;
+	 color:#000; 
+	 position: fixed; 
+	 bottom:144px; 
+	 right: -168px; 
+	 text-align: center;
+	 transition: all 0.6s; 
+	 }
+	 
+		 
+#wxBtn:hover{
+	 background:#F63;
+	 color:#fff; 
+	}
+
+
+/*返回顶部*/
+#btn{
+	 width: 50px;
+	 height: 50px;
+	 line-height: 25px;
+	 cursor: pointer;
+	 background:#accaf4;
+	 color:#000; 
+	 position: fixed; 
+	 bottom:60px; 
+	 right:0px; 
+	 text-align: center; 
+	 font-size:18px; 
+	 }
+	 
+#btn:hover{
+	 background:#F30;
+	 color:#fff; 
+	}
+
+
