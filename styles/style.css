@@ -25,9 +25,12 @@ li{
 }
 .headerimg{
     width: 100px;
-    height: 100px;
+    height: 120px;
     border-radius: 50%;
     margin-top: 10px;
+}
+.headerimg:hover{
+    cursor: pointer;
 }
 .header{
     font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;

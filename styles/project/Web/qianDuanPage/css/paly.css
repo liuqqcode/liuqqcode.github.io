@@ -1,7 +1,0 @@
-/* CSS Document */
-.palybox{width:800px; border:#999 solid 1px; margin:10px auto; height:540px;}
-.palybox>span{margin-left: 140px; margin-right:8px; font-weight: bold; color:red; font-size: 18px;}
-.palybox>a{color: red;}
-.palybox>a:hover{text-decoration: underline;}
-.palybox .paly{margin-top:8px;color:#F00;font-size:32px;text-align:center;}
-.palybox .paly_conet{width:100%; height:480px; margin-top:-16px; background:url(../images/zhifubao.png) 150px  0 no-repeat;}
