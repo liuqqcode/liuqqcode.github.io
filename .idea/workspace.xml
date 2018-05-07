@@ -2,442 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6bf9092e-8ff0-4301-9234-2397e3bd0440" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/bootstrap-4.0.0-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/games/bootstart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/games/canvas移动的方块.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/games/掷骰子.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/games/贪吃蛇2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/games/躲避游戏.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/images/TIM图片20180423185604.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/images/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/js/resume.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/js/star.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/js/water.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/ad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/banner/banner_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/banner/banner_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/banner/banner_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/banner/banner_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/banner/banner_sm_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/banner/banner_sm_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/banner/banner_sm_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/banner/banner_sm_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/aLink_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/buy_btn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/car.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/collection.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/des_input_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/des_title.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/des_title_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/down.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/hg_icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/hot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/i.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/icon_cart_prompt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/j.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/login_btn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/n.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/plus_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/red_link.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/red_link_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/red_link_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/shaoIcon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/shopIcon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/shop_sj.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/sj.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/sj_blue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/sj_grey.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/t.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/user_icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/icon/xing.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/index_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/jian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/jiaqin_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/jiaqin_1_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/jiaqin_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/jiaqin_2_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/logo.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/logo_index.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/sh_btn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shaixuan/shopImg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shopping_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shucai_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shucai_1_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shucai_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shucai_2_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shuichan_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shuichan_1_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shuichan_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shuichan_2_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shuiguo_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shuiguo_1_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shuiguo_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/shuiguo_2_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/step.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/touxiang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/tscy_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/tscy_1_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/tscy_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/tscy_2_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/tscy_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/tscy_3_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/tscy_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/tscy_4_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/userhead.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/webLogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/images/内容banner.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/index_right.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/js/DD_belatedPNG_0.0.8a-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/js/adminregister.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/js/ie6Fixpng.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/js/jquery-1.12.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/js/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/js/userregister.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/login/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/login/login_fail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/login/login_no.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/backstage1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/carbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/fenlei.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/grzx.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/grzx_order.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/grzx_right.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/jieshao.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/paly.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/picture.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/shaixuan.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/shop_cart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/css/shop_order.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/fenlei.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/grzx_bottom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/grzx_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/grzx_left.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/ad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/banner/banner_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/banner/banner_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/banner/banner_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/banner/banner_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/banner/banner_sm_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/banner/banner_sm_02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/banner/banner_sm_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/banner/banner_sm_04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/bcdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/doufu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/gbjd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/hgr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/hpqj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/hsszt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/kongxinc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/lzj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/mpdf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/mxw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/qcbc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/shopImg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/sltds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/ssj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/szy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/tcpg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/yxrs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/fenlei/z_20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/bangbangji.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/banner_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/banner_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/banner_05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/koushuiji.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/maladoufu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/shuizu_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/shuzhuyu_01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/suancaiyu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/goodsdetails/suanni_03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/aLink_bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/buy_btn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/car.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/collection.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/des_input_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/des_title.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/des_title_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/down.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/hg_icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/hot.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/icon_cart_prompt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/login_btn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/plus_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/red_link.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/red_link_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/red_link_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/shaoIcon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/shopIcon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/shop_sj.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/sj.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/sj_blue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/sj_grey.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/user_icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/icon/xing.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/jian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/left1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/left2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/logo.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/right1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/right2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shaixuan/shopImg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shopping_bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shopping_cart/yuci.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/shopping_cart/zushun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/step.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/step_car.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/touxiang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/tuhuo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/userhead.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/webLogo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/images/内容banner.psd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/js/1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/js/DD_belatedPNG_0.0.8a-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/js/carbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/js/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/js/goods_img.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/js/grzx.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/js/ie6Fixpng.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/js/jquery-1.12.3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/js/jquery.fly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/js/shop_cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/js/shop_order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/qianDuanPage/paly.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/register/adminregister.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/register/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/register/register_ok.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/Web/register/userregister.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/dist/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/image/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/node_modules/.npminstall.done" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/bootstrap-demo/node_modules/.package_versions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/login/css/login2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/login/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/login/images/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/login/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/login/js/jquery-1.9.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/login3/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/login3/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/dist/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/dist/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/dist/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/dist/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/dist/images/intro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/dist/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/dist/main.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/dist/vue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/src/components/app.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/src/components/card.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/src/components/list.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/src/components/message.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/src/components/text.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/vue/src/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/吃啥.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/demo(1).css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/image/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/image/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/image/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/image/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/image/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/image/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/image/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/image/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/image/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/图片切换/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/圆形主菜单/纯CSS3圆形主菜单展开.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/圆形主菜单/纯CSS3圆形主菜单展开_files/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/圆形主菜单/纯CSS3圆形主菜单展开_files/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/圆形主菜单/纯CSS3圆形主菜单展开_files/hewenqi.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/圆形主菜单/纯CSS3圆形主菜单展开_files/hint_pb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/圆形主菜单/纯CSS3圆形主菜单展开_files/yun6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/201303300223229705.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/er_ctrip_app.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/er_ctrip_wechat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/p1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/p2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/p3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/p4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/p5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/p6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/p7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/img/un_header_footer20160610.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/js/block.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/js/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/旅途/styles/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/chse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/cp.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/hint_pb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/show1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/show1_hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/show2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/show2_hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/show3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/show3_hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/show4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/show4_hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/滑动门/jquery滑动门特效_files/yun6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/project/鱼摆摆.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/styles/bg_css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/styles/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/liuqqcode.github.io" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -455,10 +20,9 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="142" column="12" selection-start-line="142" selection-start-column="16" selection-end-line="144" selection-end-column="23" />
+            <state relative-caret-position="527">
+              <caret line="148" column="40" selection-start-line="148" selection-start-column="40" selection-end-line="148" selection-end-column="40" />
               <folding>
-                <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -559,7 +123,7 @@
       <option name="presentableId" value="Default" />
       <updated>1524738312918</updated>
       <workItem from="1524738322738" duration="7049000" />
-      <workItem from="1525662266381" duration="845000" />
+      <workItem from="1525662266381" duration="1282000" />
     </task>
     <task id="LOCAL-00001" summary="修改搜我又是那个是">
       <created>1524738561737</created>
@@ -603,14 +167,22 @@
       <option name="project" value="LOCAL" />
       <updated>1525662696001</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="llllhhhh">
+      <created>1525663455446</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1525663455446</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8065000" />
+    <option name="totallyTimeSpent" value="8502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2470238" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -676,7 +248,6 @@
         <state relative-caret-position="748">
           <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
           <folding>
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -694,7 +265,6 @@
         <state relative-caret-position="493">
           <caret line="43" column="36" lean-forward="true" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
           <folding>
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -722,10 +292,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="142" column="12" selection-start-line="142" selection-start-column="16" selection-end-line="144" selection-end-column="23" />
+        <state relative-caret-position="527">
+          <caret line="148" column="40" selection-start-line="148" selection-start-column="40" selection-end-line="148" selection-end-column="40" />
           <folding>
-            <element signature="n#style#0;n#i#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
