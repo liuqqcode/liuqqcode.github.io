@@ -1,0 +1,79 @@
+/* CSS Document */
+@charset "utf-8";
+.affirm{width:100px;height:25px;background-color:#36F;color:#FFF; cursor:pointer;}
+.affirm:hover{width:100px;height:25px;background-color:#CCC;color:#000;}
+.affirm2{width:50px;height:25px;background-color:#36F;color:#FFF;cursor:pointer;}
+.affirm2:hover{width:50px;height:25px;background-color:#CCC;color:#000;}
+.affirm3{width:50px;height:25px;background-color:#36F;color:#FFF;cursor:pointer;}
+.affirm3:hover{width:50px;height:25px;background-color:#CCC;color:#000;}
+.wuhuo{color:#F00;}
+.jiage{color:#000;}
+
+/*个人中心*/
+.comWidth .sx_grzx_big{width:200px; height:180px; border:2px solid #F00; border-radius:8px; z-index:200; position:fixed; right:16px; top:26px; background:#6CF; display:none;}
+.sx_grzx_big p{width:80px; height:80px; margin:16px auto; border:1px solid #F00; border-radius:50%; background:url(../images/touxiang.png) center; }
+.sx_grzx_big b{display:block; width:100%; color:#F00; margin:0px; text-align:center;}
+.sx_grzx_big b span{font-size:16px; color:#00F;}
+.comWidth .grzx_big_show{ display:block;}
+
+
+/*购物车*/
+.stepBox{width:396px; padding-top:26px;}
+.step{background:url(../images/step_car.png) left top no-repeat; height:19px;}
+.step_text{color:#FFF; font-size:12px; line-height:30px;}
+.step_text li{float:left;}
+.s01,.s03{width:30%;}
+.s02{width:40%; text-align:center;}
+.s03{text-align:right;}
+.step_text .active{color:#F3E402; font-weight:bold;}
+.shoppingCart{padding-top:10px;}
+.shopping_item{border:#ccc solid 1px;}
+.shopping_tit{height:31px; background:url(../images/shopping_bg.jpg) left top repeat-x;  color:#444444; font:16px/31px "Microsoft YaHei", "寰蒋闆呴粦"; text-indent:12px; border-bottom:#E3E3E3 solid 1px;}
+.padding_shop{padding:25px 30px;}
+.shopping_list_text{float:left; width:76px; line-height:24px;}
+.cart_tel,.input{vertical-align:middle;}
+.cart_tel{display:inline-block; height:24px; line-height:24px;}
+.shopping_list li{height:24px; margin-bottom:10px;}
+.shopping_list_text em{color:#F30; font-style:normal; margin-right:5px;} 
+.input{height:22px; line-height:22px\9; border:#CCC solid 1px; padding:0 6px; width:110px;}
+.input_b{width:392px;}
+.input_s{width:64px;}
+.input_s2{width:84px;}
+.radio{position:relative; top:3px; margin-right:4px;}
+.backCar{float:right; font-size:12px; font-family:"瀹嬩綋"; margin-right:33px; color:#3377FF;}
+.backCar:hover{text-decoration:underline;}
+.cart_head{padding-top:5px; border-bottom:1px solid #ccc;}
+.cart_head .cart_item{line-height:28px; font-size: 14px;}
+.cart_item{float:left;}
+.cart_item h4{margin-right:4px; display: inline; color: red;}
+.t_name{width:440px; padding-left:30px; padding-bottom:4px;}
+.t_price{width:100px; font-size: 14px;}
+.t_return{width:100px; font-size: 14px;}
+.t_num{width:135px; font-size: 14px;}
+.t_num .car_input{margin-left:-24px;}
+.t_num .jian{ width:20px; background:#CCC; border:1px solid #666; cursor:pointer;}
+.t_num .jia{ width:20px; background:#CCC; border:1px solid #666; cursor:pointer;}
+.t_num .text{ width:20px; background:#CCC; border:1px solid #666; text-align: center;}
+.t_num .jian:hover{border:2px solid #00F;}
+.t_num .jia:hover{border:2px solid #00F;}
+.t_subtotal{width:100px; font-size: 14px;}
+.t_caozuo{width:92px;}
+.t_red{color:red;}
+
+.inputs{
+		width:50px;
+		text-align: center;
+		}
+	
+.cart_rmb>h4{display:inline; color:#f00; font-size:24px; font-weight: bold; }
+		
+#li{ position:relative;}
+
+.checkbox{ position:absolute; top:10px; left:8px; width:16px; height:16px;}
+
+li>p{ margin:8px 0 24px;}
+
+li>p>a:hover{text-decoration:underline; color:#F00;}
+
+.cart_btn1{display:block; text-align:center; width:165px; height:33px; background-color:#E50007; font:18px/33px "Microsoft YaHei", "寰蒋闆呴粦"; color:#FFF; cursor:pointer;}
+.cart_btn1:hover{background:#00F;}

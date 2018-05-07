@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <meta HTTP-EQUIV="pragma" content="no-cache">
-    <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
-    <meta http-equiv="expires" content="0">
-    <title>刘欢-个人简历</title>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+        <meta HTTP-EQUIV="pragma" content="no-cache">
+        <meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
+        <meta http-equiv="expires" content="0">
+        <title>刘欢-个人简历</title>
 
-    <!-- Bootstrap -->
-    <link href="./bootstrap-4.0.0-dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="./styles/style.css">
-    <!--[if lt IE 9]>
-      <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-      <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
+        <!-- Bootstrap -->
+        <link href="./bootstrap-4.0.0-dist/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="./styles/style.css">
+        <!--[if lt IE 9]>
+          <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+          <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
   </head>
   <style>
       canvas{
@@ -25,117 +25,109 @@
           position: fixed;
       }
   </style>
+  <!--<link rel="stylesheet" href="./styles/bg_css.css">-->
+
   <body >
-  <canvas id="canvas-club"></canvas>
+
+  <canvas id="canvas" class="canvas-star" style="overflow: hidden; background: #060e1b;"></canvas>
   <script>
 
-      var c = document.getElementById("canvas-club");
-      var ctx = c.getContext("2d");
-      var w = c.width = window.innerWidth;
-      var h = c.height = window.innerHeight;
-      var clearColor = 'rgba(0, 0, 0, .1)';
-      var max = 30;
-      var drops = [];
+
+      var canvas = document.getElementById('canvas'),
+          ctx = canvas.getContext('2d'),
+          w = canvas.width = window.innerWidth,
+          h = canvas.height = window.innerHeight,
+
+          hue = 217,
+          stars = [],
+          count = 0,
+          maxStars = 1400;
+
+
+      var canvas2 = document.createElement('canvas'),
+          ctx2 = canvas2.getContext('2d');
+      canvas2.width = 100;
+      canvas2.height = 100;
+      var half = canvas2.width/2,
+          gradient2 = ctx2.createRadialGradient(half, half, 0, half, half, half);
+      gradient2.addColorStop(0.025, '#fff');
+      gradient2.addColorStop(0.1, 'hsl(' + hue + ', 61%, 33%)');
+      gradient2.addColorStop(0.25, 'hsl(' + hue + ', 64%, 6%)');
+      gradient2.addColorStop(1, 'transparent');
+
+      ctx2.fillStyle = gradient2;
+      ctx2.beginPath();
+      ctx2.arc(half, half, half, 0, Math.PI * 2);
+      ctx2.fill();
+
+      // End cache
 
       function random(min, max) {
-          return Math.random() * (max - min) + min;
-      }
-
-      function O() {}
-
-      O.prototype = {
-          init: function() {
-              this.x = random(0, w);
-              this.y = 0;
-              this.color = 'hsl(180, 100%, 50%)';
-              this.w = 2;
-              this.h = 1;
-              this.vy = random(4, 5);
-              this.vw = 3;
-              this.vh = 1;
-              this.size = 2;
-              this.hit = random(h * .8, h * .9);
-              this.a = 1;
-              this.va = .96;
-          },
-          draw: function() {
-              if (this.y > this.hit) {
-                  ctx.beginPath();
-                  ctx.moveTo(this.x, this.y - this.h / 2);
-
-                  ctx.bezierCurveTo(
-                      this.x + this.w / 2, this.y - this.h / 2,
-                      this.x + this.w / 2, this.y + this.h / 2,
-                      this.x, this.y + this.h / 2);
-
-                  ctx.bezierCurveTo(
-                      this.x - this.w / 2, this.y + this.h / 2,
-                      this.x - this.w / 2, this.y - this.h / 2,
-                      this.x, this.y - this.h / 2);
-
-                  ctx.strokeStyle = 'hsla(180, 100%, 50%, '+this.a+')';
-                  ctx.stroke();
-                  ctx.closePath();
-
-              } else {
-                  ctx.fillStyle = this.color;
-                  ctx.fillRect(this.x, this.y, this.size, this.size * 5);
-              }
-              this.update();
-          },
-          update: function() {
-              if(this.y < this.hit){
-                  this.y += this.vy;
-              } else {
-                  if(this.a > .03){
-                      this.w += this.vw;
-                      this.h += this.vh;
-                      if(this.w > 100){
-                          this.a *= this.va;
-                          this.vw *= .98;
-                          this.vh *= .98;
-                      }
-                  } else {
-                      this.init();
-                  }
-              }
-
+          if (arguments.length < 2) {
+              max = min;
+              min = 0;
           }
-      }
 
-      function resize(){
-          w = c.width = window.innerWidth;
-          h = c.height = window.innerHeight;
-      }
-
-      function setup(){
-          for(var i = 0; i < max; i++){
-              (function(j){
-                  setTimeout(function(){
-                      var o = new O();
-                      o.init();
-                      drops.push(o);
-                  }, j * 200000)
-              }(i));
+          if (min > max) {
+              var hold = max;
+              max = min;
+              min = hold;
           }
+
+          return Math.floor(Math.random() * (max - min + 1)) + min;
       }
 
+      var Star = function() {
 
-      function anim() {
-          ctx.fillStyle = clearColor;
-          ctx.fillRect(0,0,w,h);
-          for(var i in drops){
-              drops[i].draw();
+          this.orbitRadius = random(w / 2 - 50);
+          this.radius = random(100, this.orbitRadius) / 10;
+          this.orbitX = w / 2;
+          this.orbitY = h / 2;
+          this.timePassed = random(0, maxStars);
+          this.speed = random(this.orbitRadius) / 100000;
+          this.alpha = random(2, 10) / 10;
+
+          count++;
+          stars[count] = this;
+      }
+
+      Star.prototype.draw = function() {
+          var x = Math.sin(this.timePassed + 1) * this.orbitRadius + this.orbitX,
+              y = Math.cos(this.timePassed) * this.orbitRadius/2 + this.orbitY,
+              twinkle = random(10);
+
+          if (twinkle === 1 && this.alpha > 0) {
+              this.alpha -= 0.05;
+          } else if (twinkle === 2 && this.alpha < 1) {
+              this.alpha += 0.05;
           }
-          requestAnimationFrame(anim);
+
+          ctx.globalAlpha = this.alpha;
+          ctx.drawImage(canvas2, x - this.radius / 2, y - this.radius / 2, this.radius, this.radius);
+          this.timePassed += this.speed;
       }
 
+      for (var i = 0; i < maxStars; i++) {
+          new Star();
+      }
 
-      window.addEventListener("resize", resize);
+      window.addEventListener('load' ,function animation() {
+              ctx.globalCompositeOperation = 'source-over';
+              ctx.globalAlpha = 0.8;
+              ctx.fillStyle = 'hsla(' + hue + ', 64%, 6%, 1)';
+              ctx.fillRect(0, 0, w, h)
 
-      setup();
-      anim();
+              ctx.globalCompositeOperation = 'lighter';
+              for (var i = 1, l = stars.length; i < l; i++) {
+                  stars[i].draw();
+              };
+
+              window.requestAnimationFrame(animation);
+          }
+      )
   </script>
+
+
       <div class="content">
         <div class="header">
             <img class="headerimg" src="./images/TIM图片20180423185604.jpg" alt="">
@@ -175,21 +167,22 @@
                 <li class="proLi">
                     <i class="fa fa-file-archive-o" aria-hidden="true"></i>
                     <ul class="proUl">
-                        <a name="" id="" class="btn btn-link" href="./project/滑动门/jquery滑动门特效.html" role="button">滑动门</a>
+                        <a name="" id="shuYiShuEr" class="btn btn-link" href="./project/Web/qianDuanPage/fenlei.html" role="button">蜀一蜀二</a>
+
                         <br>
-                        <a name="" id="" class="btn btn-link" href="./project/旅途/index.html" role="button">携程</a>
+                        <a name="" id="shuYiShuErLogin" class="btn btn-link" href="./project/Web/login/login.html" role="button">登录</a>
                         <br>
-                        <a name="" id="" class="btn btn-link" href="./project/vue/index.html" role="button">vue</a>
+                        <a name="" id="shuYiShuErRegister" class="btn btn-link" href="./project/Web/register/register.html" role="button">注册</a>
                         <br>
                     </ul>
                     <br>
                     <i class="fa fa-file" aria-hidden="true"></i>
                     <ul class="games">
-                        <a name="" id="" class="btn btn-link" href="./games/贪吃蛇2.html" role="button">贪吃蛇</a>
+                        <a name="" id="snake" class="btn btn-link" href="./games/贪吃蛇2.html" role="button">贪吃蛇</a>
                         <br>
-                        <a name="" id="" class="btn btn-link" href="./games/躲避游戏.html" role="button">躲避游戏</a>
+                        <a name="" id="eludeGame" class="btn btn-link" href="./games/躲避游戏.html" role="button">躲避游戏</a>
                         <br>
-                        <a name="" id="" class="btn btn-link" href="./games/canvas移动的方块.html" role="button">移动方块</a>
+                        <a name="" id="moveDiamonds" class="btn btn-link" href="./games/canvas移动的方块.html" role="button">移动方块</a>
                     </ul>
                 </li>
             </ul>

@@ -3,14 +3,15 @@ body{
     padding: 0;
     font-family: "Microsoft Yahei";
     font-size: 11px;
-    color: gray;
+    background: #060e1b;
+    color: gray
 }
 li{
     list-style: none;
     font: 14px 'Microsoft YaHei',arial,tahoma,\5b8b\4f53,sans-serif;
     padding-top: 4px;
 }
-
+/*总体内容*/
 .content{
     position: relative;
     margin: auto;
@@ -34,11 +35,22 @@ li{
     font-weight: 500;
     text-align: center;
 }
+/*canvas背景*/
+.canvasbg{
+    width: 100%;
+    position: absolute;
+    margin: 10px auto;
+    /*display: inline-block;*/
+}
+
+
+/*横条*/
 .line{
     width: 100%;
     height: 30px;
     background: rgb(56, 55, 55);
 }
+/*销售*/
 .xiaoshoudiv{
     width: 500px;
     padding: 20px;
@@ -70,6 +82,7 @@ li{
     cursor: pointer;
     background: rgb(48,133,214);
 }
+/*简介*/
 .jianjie, .more{
     margin-left: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -90,6 +103,7 @@ li{
 .jianjiespan span{
     color: blue;
 }
+/*项目经验,工作经验,技能展示,联系方式*/
 .work, .jineng, .project, .contact{
     margin: 10px;
     padding: 10px;
@@ -123,6 +137,7 @@ ul{
     color: yellow;
     border-radius: 10px;
 }
+/*技能展示精通*/
 .jnzs{
     margin-top: 4px;
     font-size: 12px;
@@ -131,13 +146,14 @@ ul{
     background: red;
     padding: 0 3px;
 }
+/*技能展示熟练*/
 .jnzssl{
-    margin-top: 4px;    
+    margin-top: 4px;
     font-size: 12px;
     float: right;
     color: white;
     background: rgb(184, 97, 97);
-    padding: 0 3px;    
+    padding: 0 3px;
 }
 li i{
     margin-top: 2px;
@@ -154,6 +170,9 @@ li i{
     clear: both;
     position: relative;
 }
+
+
+/*屏幕宽度小于1100px*/
 @media(max-width: 1100px){
     body{
         margin: 0;

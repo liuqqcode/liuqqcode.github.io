@@ -1,7 +1,7 @@
 <!doctype html>  
 <html>  
-<body  style='overflow:hidden'>  
-    <canvas id="can" width="400" height="400" style="background: Black; display: block; margin: 20px auto;"></canvas>  
+<body  style='background: ghostwhite'>
+    <canvas id="can" width="400" height="400" style="background: Black; display: block; margin: 20px auto;"></canvas>
     <script>  
         // var sn = [ 42, 41 ], dz = 43, fx = 1, n, ctx = document.getElementById("can").getContext("2d");  
         var sn = [ 42, 41 ]; 
@@ -28,6 +28,6 @@
                 draw(sn.pop(), "Black");  
                 setTimeout(arguments.callee, 130);  
         }();  
-    </script>  
+    </script>
 </body>  
 </html>  

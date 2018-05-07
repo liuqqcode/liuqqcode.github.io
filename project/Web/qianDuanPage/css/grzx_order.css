@@ -1,0 +1,28 @@
+@CHARSET "UTF-8";
+/* CSS Document */
+.big{ height:382px; padding-left:40px; border-top:40px solid #9CF; border-left:2px solid #9cf;  border-right:2px solid #9cf;  border-bottom:2px solid #9cf; position:relative;}
+.big>b{font-size:16px; position:absolute; left:20px; top:-28px;}
+.big>b>a:hover{color:#F00; text-decoration:underline;}
+.big>.title{margin-top:24px;}
+.big>.title>i{ height:4px; margin-top:-10px; margin-left:122px; display:block; background:#9cf;}
+.big>.title>em{ height:4px; width:42px; margin-top:-2px; margin-left:-40px; display:block; background:#9cf;}
+.big>.title>span{font-size:16px; line-height:32px; padding:4px 4px 0; border-top:2px solid #9cf;border-left:2px solid #9cf; border-right:2px solid #9cf;}
+.big p{font-size:18px; font-weight:bold; color:#F30; margin:24px auto;}
+.big p img{width:80px; height:80px; border-radius:50%; margin:0 24px -30px;}
+.big p>span{font-size:18px; font-weight:bold; color:#000;}
+
+.order_table{margin-left: -40px; margin-top:8px;}
+.order_table #dibu>a:hover{color:#f00; text-decoration: underline;}
+.order_table table{background:#FFF; margin: 0 auto;}
+.order_table table .width_300{width:300px;}
+.order_table table .width_80{width:80px;}
+.order_table table .margin_auto{margin:0 auto;}
+.order_table table .color_red{color: red;}
+.order_table table .color_blue{color: blue;}
+.order_table table tr>th{width:100px; height: 10px; background:#9cf; text-align: center;}
+.order_table table tr>td{width:100px; height: 20px; background:#ccc; margin:0 auto; text-align: center; font-size: 14px;}
+.order_table table tr td span{margin: 0 8px;}
+.order_table table tr .td span{margin: 0 6px;}
+.order_table table tr td a{display:block; width:80px; height: 16px; line-height:16px; text-align:center;  background: rgb(225, 224, 224); color:rgb(000,000,000);}
+.order_table table tr td a:hover{color:#F00; background:#333;}
+
