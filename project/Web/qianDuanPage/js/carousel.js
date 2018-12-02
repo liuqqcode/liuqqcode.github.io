@@ -166,3 +166,11 @@
 		});
 	}
 })(jQuery);
+
+
+$(function(){
+	$(".item").click(function (e) { 
+		console.log($(this).children().children().eq(1).text());
+		
+	});
+})
